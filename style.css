@@ -21,6 +21,7 @@ body {
 }
 #profile {
 	width: 100%;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	border: 5px solid #85c8ff;
 	border-radius: 100%;
@@ -50,6 +51,7 @@ content {
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
+	margin-bottom: 10px;
 	padding: 10px;
 	background: rgba(203, 226, 245, 0.8);
 	border: 5px solid #85c8ff;
