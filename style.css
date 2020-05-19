@@ -41,8 +41,8 @@ content {
 }
 #social {
 	display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
-    grid-gap: 25px;
+    	grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
+   	grid-gap: 15px;
 	align-items: center;
 	justify-content: center;
 }
